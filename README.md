@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- [openfang-rail](https://github.com/89rat/openfang-rail) - Deterministic business-identifier validation (IBAN, LEI, VAT, SWIFT/BIC + 9 more) and rental due-diligence, paid per call via x402 (gasless USDC on Base). Signed offline-verifiable receipts, dynamic pricing, free tier. Remote MCP at https://rail.akrivis.in/mcp
 
 <br />
 
